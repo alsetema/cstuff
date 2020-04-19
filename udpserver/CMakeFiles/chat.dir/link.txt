@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/chat.dir/udpserver.c.o  -o chat  -lpthread 

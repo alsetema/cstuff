@@ -1,0 +1,3 @@
+/home/alsetema/git projects/c/udpserver/CMakeFiles/rebuild_cache.dir
+/home/alsetema/git projects/c/udpserver/CMakeFiles/chat.dir
+/home/alsetema/git projects/c/udpserver/CMakeFiles/edit_cache.dir
